@@ -3,7 +3,7 @@ dva
 tri
 styri
 pat
-sest a pol
+sest a pola
 sedem
 osem
 devet
