@@ -13,5 +13,5 @@ jedenact
 dvanact
 13
 14 a pol
+dvanact a pol
 13 a pol
-
