@@ -5,7 +5,7 @@ styri
 pat
 sest a pola
 sedem
-osem
+osem a pol
 devet
 desat
 jedenact
