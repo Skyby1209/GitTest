@@ -1,0 +1,10 @@
+jedna
+dva
+tri
+styri
+pat
+sest
+sedem
+osem
+devet
+desat
