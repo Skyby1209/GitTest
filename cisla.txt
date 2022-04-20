@@ -8,3 +8,5 @@ sedem
 osem
 devet
 desat
+jedenact
+dvanact
