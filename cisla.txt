@@ -11,5 +11,5 @@ desat
 jedenact
 dvanact
 13
-14
+14 a pol
 
