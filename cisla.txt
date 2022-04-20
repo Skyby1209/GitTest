@@ -9,5 +9,5 @@ osem
 devet
 desat
 jedenact
-dvanact
+dvanact a pol
 13 a pol
