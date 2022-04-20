@@ -6,6 +6,7 @@ pat
 sest a pola
 sedem
 osem a pol
+osem a pol
 devet
 desat
 jedenact
